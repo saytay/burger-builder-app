@@ -1,0 +1,12 @@
+SPA
+
+Single page (html file)
+
+use js to render different pages for different paths
+
+router package - has tasks
+- parse the url
+- developer configures different paths 
+- router reads configures
+- router renders/loads appropriate JSX
+
